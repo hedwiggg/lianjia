@@ -114,3 +114,90 @@ ls
 cd chenghua/
 ls
 sz historyPrice 
+ls
+rm aaa.zip 
+rm p7zip_16.02
+rm -rf p7zip_16.02
+rm target.zip 
+rm p7zip_16.02_src_all.tar.bz2 
+ls
+ls
+history
+ls
+curl -k --tlsv1 -O "https://github.com/hedwiggg/grayImage/raw/master/remoteLjSpy.jar"
+ls
+java -v
+java -version
+java -jar remoteLjSpy.jar 
+chmod 777 remoteLjSpy.jar 
+ls
+java -jar remoteLjSpy.jar 
+ls -m
+ls -l
+rm remoteLjSpy.jar 
+wget https://github.com/hedwiggg/grayImage/raw/master/remoteLjSpy.jar
+ls
+ls -l
+java -jar remoteLjSpy.jar 
+ls
+cd djl/history/2023-03-18/
+ls
+ls -l
+ls -lh
+time
+date
+ls
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd djl
+ls
+cd ..
+git init
+ls
+ls -l
+ls
+git remote add origin https://github.com/hedwiggg/lianjia.git
+git pl
+git pl
+git pull
+git branch
+git commit -m "first commit"
+git add .
+git commit -m "first commit"
+ls
+git branch
+git push -u origin main
+git push -u origin master
+ls
+ssh-keygen -t rsa -C "635454886@qq.com"
+cat /root/.ssh/id_rsa.pub
+ls
+git push -u origin master
+ssh -T git@github.com
+git push -u origin master
+ls
+git pull
+git branch
+git remote add origin git@github.com:hedwiggg/lianjia.git
+git remote set-url origin git@github.com:hedwiggg/lianjia.git
+s
+git push -u origin master
+ls
+pwd
+ls
+touch ccc.txt
+vim ccc.txt 
+git branch
+cat  /etc/crontab
+apt install vim
+ls
+pwd
+ls
+pwd
+ls
+pwd
