@@ -3,5 +3,6 @@
 # <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
 raw.githubusercontent.com	0	0	1679121991	31536000
 adoptopenjdk.jfrog.io	0	1	1679118528	15724800
+go.dev	0	1	1679188355	31536000
 drive.google.com	0	0	1679119921	31536000
-github.com	0	1	1679123811	31536000
+github.com	0	1	1679234325	31536000

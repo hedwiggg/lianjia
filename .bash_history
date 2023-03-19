@@ -201,3 +201,168 @@ ls
 pwd
 ls
 pwd
+top
+ps aux
+python -v
+apt uninstall python
+ps aux
+apt install git
+git clone
+bash <(curl -s -L https://git.io/v2ray.sh)
+v2ray qr
+ps aux
+top
+v2ray info
+v2ray
+v2ray config
+v2ray qr
+vim /etc/crontab
+/etc/init.d/cron restart
+ls
+date
+tail -f /var/log/cron.log
+ls
+git add .
+git commit -m 'test'
+git push
+touch ddd.txt
+(git add .) && (git commit -m 'test') && (git push)
+(git add .) && (git commit -m 'test') && (git push)
+(git add .) || (git commit -m 'test') || (git push)
+git push
+touch eee.txt
+(git add .) && (git commit -m 'test') && (git push)
+vim /etc/crontab
+/etc/init.d/cron restart
+touch fff.txt
+vim /etc/crontab
+/etc/init.d/cron restart
+date
+ls -l
+vim /etc/crontab
+/etc/init.d/cron restart
+date
+vim /etc/crontab
+/etc/init.d/cron restart
+ls
+ls -l
+cd djl
+ls -l
+cd history/
+ls -l
+cd 2023-03-18/
+ls -l
+cd chenghua/
+ls -l
+cd ..
+cd wuhou/
+ls -l
+ls -l
+curl localhost:7500
+curl 127.0.0.1:7500
+curl http://45.147.201.40:7500
+curl http://45.147.201.40:7001
+curl http://45.147.201.40:7500
+cd /usr/local
+ls
+wget https://go.dev/dl/go1.20.2.linux-amd64.tar.gz
+ls -l
+ls -lh
+rm -rf /usr/local/go && tar -C /usr/local -xzf go1.20.2.linux-amd64.tar.gz
+ls -lh
+export PATH=$PATH:/usr/local/go/bin
+source ~/.profile 
+go version
+rm go1.20.2.linux-amd64.tar.gz
+ls -lh
+cd go/
+ls
+cd ..
+go version
+wget https://github.com/fatedier/frp/releases/download/v0.48.0/frp_0.48.0_linux_amd64.tar.gz
+ls
+tar -xf frp_0.48.0_linux_amd64.tar.gz 
+ls
+ls -lh
+cd frp_0.48.0_linux_amd64/
+ls
+./frps -c ./frps.ini 
+ls
+cat frps.ini 
+sudo ufw allow 7000
+history
+iptables -I INPUT -p tcp --dport 8080 -j ACCEPT
+netfilter-persistent save
+apt-get install iptables-persistent
+netfilter-persistent save
+netfilter-persistent reload
+ls
+vim frps.ini 
+vim frps.ini 
+iptables -I INPUT -p tcp --dport 7000 -j ACCEPT
+iptables -I INPUT -p tcp --dport 7500 -j ACCEPT
+netfilter-persistent save
+netfilter-persistent reload
+mkdir -p /etc/frp
+cp frps.ini /etc/frp
+cp frps /usr/bin
+ls
+cp systemd/frps.service /usr/lib/systemd/system/
+./frps -c ./frps.ini 
+ls
+vim frps.ini
+./frps -c ./frps.ini 
+vim frps.ini
+./frps -c ./frps.ini 
+vim frps.ini
+vim frps.ini
+iptables -I INPUT -p tcp --dport 7001 -j ACCEPT
+netfilter-persistent save
+netfilter-persistent reload
+./frps -c ./frps.ini 
+vim frps.ini
+./frps -c ./frps.ini 
+v2ray 
+v2ray 
+./frps -c ./frps.ini 
+vim frps.ini
+./frps -c ./frps.ini 
+vim frps.ini
+./frps -c ./frps.ini 
+./frps -c ./frps.ini 
+vim frps.ini
+cat frps.ini
+./frps -c ./frps.ini 
+v2ray
+./frps -c ./frps.ini 
+v2ray
+v2ray
+v2ray url
+v2ray
+v2ray url
+history
+cat ./frps.ini 
+./frps -c ./frps.ini 
+htop
+apt install htop
+htop
+cat /etc/v2ray/config.json 
+vim /etc/v2ray/config.json 
+v2ray
+v2ray
+v2ray
+v2ray
+v2ray qr
+v2ray
+vim /etc/v2ray/config.json 
+v2ray stop
+v2ray
+v2ray
+v2ray
+cat /etc/v2ray/config.json 
+v2ray
+v2ray qr
+v2ray config
+v2ray bbr
+htop
+htop

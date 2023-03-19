@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q
+|2,0,1679233761,,"q"
 
 # Search String History (newest to oldest):
 
@@ -23,52 +25,255 @@
 # Registers:
 
 # File marks:
-'0  23  1  /etc/crontab
-|4,48,23,1,1679134632,"/etc/crontab"
-'1  22  1  /etc/crontab
-|4,49,22,1,1679134413,"/etc/crontab"
-'2  22  1  /etc/crontab
-|4,50,22,1,1679134413,"/etc/crontab"
-'3  22  1  /etc/crontab
-|4,51,22,1,1679134289,"/etc/crontab"
-'4  22  1  /etc/crontab
-|4,52,22,1,1679134289,"/etc/crontab"
-'5  22  1  /etc/crontab
-|4,53,22,1,1679134257,"/etc/crontab"
-'6  22  1  /etc/crontab
-|4,54,22,1,1679134257,"/etc/crontab"
-'7  22  1  /etc/crontab
-|4,55,22,1,1679134257,"/etc/crontab"
-'8  22  1  /etc/crontab
-|4,56,22,1,1679134257,"/etc/crontab"
-'9  22  84  /etc/crontab
-|4,57,22,84,1679133905,"/etc/crontab"
+'0  1  0  ~/djl/history/2023-03-19/wuhou/historyPrice
+|4,48,1,0,1679233761,"~/djl/history/2023-03-19/wuhou/historyPrice"
+'1  24  18  /etc/v2ray/config.json
+|4,49,24,18,1679219214,"/etc/v2ray/config.json"
+'2  24  27  /etc/v2ray/config.json
+|4,50,24,27,1679218988,"/etc/v2ray/config.json"
+'3  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,51,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+'4  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,52,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+'5  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,53,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+'6  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,54,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+'7  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,55,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+'8  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,56,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+'9  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,57,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
 
 # Jumplist (newest first):
--'  23  1  /etc/crontab
-|4,39,23,1,1679134632,"/etc/crontab"
--'  22  1  /etc/crontab
-|4,39,22,1,1679134557,"/etc/crontab"
--'  22  1  /etc/crontab
-|4,39,22,1,1679134413,"/etc/crontab"
--'  22  1  /etc/crontab
-|4,39,22,1,1679134289,"/etc/crontab"
--'  22  1  /etc/crontab
-|4,39,22,1,1679134257,"/etc/crontab"
--'  22  84  /etc/crontab
-|4,39,22,84,1679133905,"/etc/crontab"
--'  1  0  /etc/crontab
-|4,39,1,0,1679133468,"/etc/crontab"
--'  1  0  /etc/crontab
-|4,39,1,0,1679133468,"/etc/crontab"
--'  1  0  /etc/crontab
-|4,39,1,0,1679133468,"/etc/crontab"
--'  1  0  /etc/crontab
-|4,39,1,0,1679133468,"/etc/crontab"
--'  1  0  /etc/crontab
-|4,39,1,0,1679133468,"/etc/crontab"
+-'  1  0  ~/djl/history/2023-03-19/wuhou/historyPrice
+|4,39,1,0,1679233761,"~/djl/history/2023-03-19/wuhou/historyPrice"
+-'  24  18  /etc/v2ray/config.json
+|4,39,24,18,1679219214,"/etc/v2ray/config.json"
+-'  24  18  /etc/v2ray/config.json
+|4,39,24,18,1679219214,"/etc/v2ray/config.json"
+-'  24  27  /etc/v2ray/config.json
+|4,39,24,27,1679218988,"/etc/v2ray/config.json"
+-'  24  27  /etc/v2ray/config.json
+|4,39,24,27,1679218988,"/etc/v2ray/config.json"
+-'  1  0  /etc/v2ray/config.json
+|4,39,1,0,1679218928,"/etc/v2ray/config.json"
+-'  1  0  /etc/v2ray/config.json
+|4,39,1,0,1679218928,"/etc/v2ray/config.json"
+-'  1  0  /etc/v2ray/config.json
+|4,39,1,0,1679218928,"/etc/v2ray/config.json"
+-'  1  0  /etc/v2ray/config.json
+|4,39,1,0,1679218928,"/etc/v2ray/config.json"
+-'  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,9,20,1679194679,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,9,20,1679194679,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,9,20,1679194679,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,9,20,1679194679,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,9,20,1679194679,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,9,20,1679194679,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,9,20,1679194679,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,9,20,1679194679,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679192875,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679192875,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679192875,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679192875,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679192875,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679192875,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679192875,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,1,1679192875,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192392,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192392,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,29,1679192392,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
 
 # History of marks within files (newest to oldest):
+
+> ~/djl/history/2023-03-19/wuhou/historyPrice
+	*	1679233759	0
+	"	1	0
+
+> /etc/v2ray/config.json
+	*	1679219213	0
+	"	24	18
+	^	24	19
+	.	24	18
+	+	24	18
+
+> /usr/local/frp_0.48.0_linux_amd64/frps.ini
+	*	1679194822	0
+	"	15	14
+	^	9	21
+	.	9	20
+	+	1	8
+	+	18	15
+	+	4	21
+	+	18	15
+	+	4	21
+	+	6	1
+	+	4	21
+	+	9	20
 
 > /etc/crontab
 	*	1679134628	0
