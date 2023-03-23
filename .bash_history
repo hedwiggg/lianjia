@@ -1,33 +1,4 @@
 ls
-curl https://drive.google.com/u/0/uc?id=1gtGbKUCvjjWIpv_REaOt_IVNCSuIMg8a&export=download -O
-curl -O https://drive.google.com/u/0/uc?id=1gtGbKUCvjjWIpv_REaOt_IVNCSuIMg8a&export=download
-ls
-ls
-curl -k --tlsv1 -O "https://drive.google.com/u/0/uc?id=1gtGbKUCvjjWIpv_REaOt_IVNCSuIMg8a&export=download"
-ls
-ls
-sudo apt-get install lrzsz
-sz
-rz
-ls
-curl -k --tlsv1 -O "https://github.com/hedwiggg/send-book-to-kindle/raw/master/target.zip"
-ls
-unzip target.zip 
-apt install unzip
-unzip target.zip 
-ls
-rm -rf uc\?id\=1gtGbKUCvjjWIpv_REaOt_IVNCSuIMg8a
-rm -rf uc\?id\=1gtGbKUCvjjWIpv_REaOt_IVNCSuIMg8a
-rm -rf uc\?id\=1gtGbKUCvjjWIpv_REaOt_IVNCSuIMg8a\&export\=download 
-ls
-ls
-unzip target.zip 
-sudo unzip target.zip 
-unzip target.zip 
-unzip target.zip 
-unzip target
-wget --no-cookie --no-check-certificate https://jaist.dl.sourceforge.net/project/p7zip/p7zip/16.02/p7zip_16.02_src_all.tar.bz2
-ls
 tar -jxvf p7zip_16.02_src_all.tar.bz2
 cd p7zip_16.02
 sudo make && make install
@@ -498,3 +469,32 @@ cd 我的视频/
 ls
 cd ..
 df -h
+lscpu
+htop
+ps -ef|grep java
+cd djl
+ls
+cd history/2023-03-22/
+ls
+ls -l
+cd gaoxin/
+ls
+cat historyPrice 
+ls
+ls
+cd ..
+ls
+cd ..
+cd ..
+ps -ef|grep java
+ls
+cd ..
+ls
+nohup java -jar remoteLjSpy.jar 
+htop
+free
+free -h
+top
+d -h
+df -h
+java -jar remoteLjSpy.jar 
