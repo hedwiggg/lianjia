@@ -1,30 +1,3 @@
-ls
-tar -jxvf p7zip_16.02_src_all.tar.bz2
-cd p7zip_16.02
-sudo make && make install
-ls
-cd ..
-7za x target.zip 
-ls
-ps -ef
-ls
-ps -ef|grep p7zip
-curl -k --tlsv1 -O "https://github.com/hedwiggg/grayImage/raw/master/aaa.zip"
-ls
-unzip aaa.zip 
-unzip -O GBK aaa.zip 
-ls
-rz
-ls
-cd djl/
-ls
-cd history/
-ls
-ls
-cd 2023-03-18/
-ls
-cd chenghua/
-ls
 cat historyPrice 
 curl https://lianjia.com
 curl "https://lianjia.com"
@@ -498,3 +471,30 @@ top
 d -h
 df -h
 java -jar remoteLjSpy.jar 
+ls
+ll -l
+ls -l
+cd 。。
+cd ..
+ls
+cd my/
+ls
+cd ..
+cd root/
+ls
+cd djl/
+ls
+cd ..
+ls
+cd ..
+ls
+cd usr/local/frp_0.48.0_linux_amd64/
+ls
+cat frps.ini 
+./frps frps.ini 
+history
+./frps -c ./frps.ini
+./frps -c ./frps.ini
+vim frps.ini
+nohup ./frps -c ./frps.ini &
+htop

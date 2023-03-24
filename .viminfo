@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :q
-|2,0,1679233761,,"q"
+|2,0,1679662098,,"q"
 
 # Search String History (newest to oldest):
 
@@ -23,232 +23,297 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""1	CHAR	0
+	8
+	
+|3,1,1,0,2,0,1679658586,"8",""
 
 # File marks:
-'0  1  0  ~/djl/history/2023-03-19/wuhou/historyPrice
-|4,48,1,0,1679233761,"~/djl/history/2023-03-19/wuhou/historyPrice"
-'1  24  18  /etc/v2ray/config.json
-|4,49,24,18,1679219214,"/etc/v2ray/config.json"
-'2  24  27  /etc/v2ray/config.json
-|4,50,24,27,1679218988,"/etc/v2ray/config.json"
-'3  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,51,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
-'4  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,52,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
-'5  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,53,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
-'6  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,54,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
-'7  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,55,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
-'8  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,56,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
-'9  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,57,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+'0  40  0  /etc/nginx/nginx.conf
+|4,48,40,0,1679663620,"/etc/nginx/nginx.conf"
+'1  41  0  /etc/nginx/nginx.conf
+|4,49,41,0,1679663590,"/etc/nginx/nginx.conf"
+'2  41  0  /etc/nginx/nginx.conf
+|4,50,41,0,1679663590,"/etc/nginx/nginx.conf"
+'3  41  0  /etc/nginx/nginx.conf
+|4,51,41,0,1679663235,"/etc/nginx/nginx.conf"
+'4  41  0  /etc/nginx/nginx.conf
+|4,52,41,0,1679663235,"/etc/nginx/nginx.conf"
+'5  41  1  /etc/nginx/nginx.conf
+|4,53,41,1,1679663201,"/etc/nginx/nginx.conf"
+'6  41  1  /etc/nginx/nginx.conf
+|4,54,41,1,1679663201,"/etc/nginx/nginx.conf"
+'7  41  1  /etc/nginx/nginx.conf
+|4,55,41,1,1679663201,"/etc/nginx/nginx.conf"
+'8  41  1  /etc/nginx/nginx.conf
+|4,56,41,1,1679663201,"/etc/nginx/nginx.conf"
+'9  3  65  /etc/nginx/nginx.conf
+|4,57,3,65,1679663171,"/etc/nginx/nginx.conf"
 
 # Jumplist (newest first):
--'  1  0  ~/djl/history/2023-03-19/wuhou/historyPrice
-|4,39,1,0,1679233761,"~/djl/history/2023-03-19/wuhou/historyPrice"
--'  24  18  /etc/v2ray/config.json
-|4,39,24,18,1679219214,"/etc/v2ray/config.json"
--'  24  18  /etc/v2ray/config.json
-|4,39,24,18,1679219214,"/etc/v2ray/config.json"
--'  24  27  /etc/v2ray/config.json
-|4,39,24,27,1679218988,"/etc/v2ray/config.json"
--'  24  27  /etc/v2ray/config.json
-|4,39,24,27,1679218988,"/etc/v2ray/config.json"
--'  1  0  /etc/v2ray/config.json
-|4,39,1,0,1679218928,"/etc/v2ray/config.json"
--'  1  0  /etc/v2ray/config.json
-|4,39,1,0,1679218928,"/etc/v2ray/config.json"
--'  1  0  /etc/v2ray/config.json
-|4,39,1,0,1679218928,"/etc/v2ray/config.json"
--'  1  0  /etc/v2ray/config.json
-|4,39,1,0,1679218928,"/etc/v2ray/config.json"
--'  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  15  14  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,15,14,1679194824,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,9,20,1679194679,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,9,20,1679194679,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,9,20,1679194679,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,9,20,1679194679,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,9,20,1679194679,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,9,20,1679194679,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,9,20,1679194679,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,9,20,1679194679,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  9  20  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,9,20,1679193121,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193107,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679193097,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679192875,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679192875,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679192875,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679192875,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679192875,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679192875,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679192875,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  6  1  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,6,1,1679192875,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192850,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192392,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192392,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
--'  5  29  /usr/local/frp_0.48.0_linux_amd64/frps.ini
-|4,39,5,29,1679192392,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  40  0  /etc/nginx/nginx.conf
+|4,39,40,0,1679663620,"/etc/nginx/nginx.conf"
+-'  1  0  /etc/nginx/nginx.conf
+|4,39,1,0,1679663616,"/etc/nginx/nginx.conf"
+-'  41  0  /etc/nginx/nginx.conf
+|4,39,41,0,1679663590,"/etc/nginx/nginx.conf"
+-'  41  0  /etc/nginx/nginx.conf
+|4,39,41,0,1679663590,"/etc/nginx/nginx.conf"
+-'  1  0  /etc/nginx/nginx.conf
+|4,39,1,0,1679663583,"/etc/nginx/nginx.conf"
+-'  41  0  /etc/nginx/nginx.conf
+|4,39,41,0,1679663235,"/etc/nginx/nginx.conf"
+-'  41  1  /etc/nginx/nginx.conf
+|4,39,41,1,1679663201,"/etc/nginx/nginx.conf"
+-'  3  65  /etc/nginx/nginx.conf
+|4,39,3,65,1679663188,"/etc/nginx/nginx.conf"
+-'  3  65  /etc/nginx/nginx.conf
+|4,39,3,65,1679663188,"/etc/nginx/nginx.conf"
+-'  3  65  /etc/nginx/nginx.conf
+|4,39,3,65,1679663188,"/etc/nginx/nginx.conf"
+-'  3  65  /etc/nginx/nginx.conf
+|4,39,3,65,1679663188,"/etc/nginx/nginx.conf"
+-'  3  65  /etc/nginx/nginx.conf
+|4,39,3,65,1679663171,"/etc/nginx/nginx.conf"
+-'  41  0  /etc/nginx/nginx.conf
+|4,39,41,0,1679663153,"/etc/nginx/nginx.conf"
+-'  41  0  /etc/nginx/nginx.conf
+|4,39,41,0,1679663144,"/etc/nginx/nginx.conf"
+-'  1  0  /etc/nginx/nginx.conf
+|4,39,1,0,1679663130,"/etc/nginx/nginx.conf"
+-'  1  0  /etc/nginx/nginx.conf
+|4,39,1,0,1679663130,"/etc/nginx/nginx.conf"
+-'  1  0  /etc/nginx/nginx.conf
+|4,39,1,0,1679663130,"/etc/nginx/nginx.conf"
+-'  1  0  /etc/nginx/nginx.conf
+|4,39,1,0,1679663130,"/etc/nginx/nginx.conf"
+-'  35  0  /etc/nginx/nginx.conf
+|4,39,35,0,1679662889,"/etc/nginx/nginx.conf"
+-'  35  0  /etc/nginx/nginx.conf
+|4,39,35,0,1679662889,"/etc/nginx/nginx.conf"
+-'  35  0  /etc/nginx/nginx.conf
+|4,39,35,0,1679662889,"/etc/nginx/nginx.conf"
+-'  35  0  /etc/nginx/nginx.conf
+|4,39,35,0,1679662889,"/etc/nginx/nginx.conf"
+-'  35  0  /etc/nginx/nginx.conf
+|4,39,35,0,1679662889,"/etc/nginx/nginx.conf"
+-'  35  0  /etc/nginx/nginx.conf
+|4,39,35,0,1679662889,"/etc/nginx/nginx.conf"
+-'  35  0  /etc/nginx/nginx.conf
+|4,39,35,0,1679662889,"/etc/nginx/nginx.conf"
+-'  34  60  /etc/nginx/nginx.conf
+|4,39,34,60,1679662880,"/etc/nginx/nginx.conf"
+-'  34  60  /etc/nginx/nginx.conf
+|4,39,34,60,1679662880,"/etc/nginx/nginx.conf"
+-'  34  60  /etc/nginx/nginx.conf
+|4,39,34,60,1679662880,"/etc/nginx/nginx.conf"
+-'  34  60  /etc/nginx/nginx.conf
+|4,39,34,60,1679662880,"/etc/nginx/nginx.conf"
+-'  34  60  /etc/nginx/nginx.conf
+|4,39,34,60,1679662880,"/etc/nginx/nginx.conf"
+-'  34  60  /etc/nginx/nginx.conf
+|4,39,34,60,1679662880,"/etc/nginx/nginx.conf"
+-'  34  60  /etc/nginx/nginx.conf
+|4,39,34,60,1679662880,"/etc/nginx/nginx.conf"
+-'  35  0  /etc/nginx/nginx.conf
+|4,39,35,0,1679662821,"/etc/nginx/nginx.conf"
+-'  1  0  /etc/nginx/nginx.conf
+|4,39,1,0,1679662817,"/etc/nginx/nginx.conf"
+-'  1  0  /etc/nginx/nginx.conf
+|4,39,1,0,1679662817,"/etc/nginx/nginx.conf"
+-'  37  0  /etc/nginx/nginx.conf
+|4,39,37,0,1679662793,"/etc/nginx/nginx.conf"
+-'  38  0  /etc/nginx/nginx.conf
+|4,39,38,0,1679662793,"/etc/nginx/nginx.conf"
+-'  37  0  /etc/nginx/nginx.conf
+|4,39,37,0,1679662793,"/etc/nginx/nginx.conf"
+-'  38  0  /etc/nginx/nginx.conf
+|4,39,38,0,1679662793,"/etc/nginx/nginx.conf"
+-'  37  0  /etc/nginx/nginx.conf
+|4,39,37,0,1679662793,"/etc/nginx/nginx.conf"
+-'  38  0  /etc/nginx/nginx.conf
+|4,39,38,0,1679662793,"/etc/nginx/nginx.conf"
+-'  37  0  /etc/nginx/nginx.conf
+|4,39,37,0,1679662793,"/etc/nginx/nginx.conf"
+-'  38  0  /etc/nginx/nginx.conf
+|4,39,38,0,1679662793,"/etc/nginx/nginx.conf"
+-'  37  0  /etc/nginx/nginx.conf
+|4,39,37,0,1679662793,"/etc/nginx/nginx.conf"
+-'  38  0  /etc/nginx/nginx.conf
+|4,39,38,0,1679662793,"/etc/nginx/nginx.conf"
+-'  37  0  /etc/nginx/nginx.conf
+|4,39,37,0,1679662793,"/etc/nginx/nginx.conf"
+-'  38  0  /etc/nginx/nginx.conf
+|4,39,38,0,1679662793,"/etc/nginx/nginx.conf"
+-'  37  0  /etc/nginx/nginx.conf
+|4,39,37,0,1679662793,"/etc/nginx/nginx.conf"
+-'  38  0  /etc/nginx/nginx.conf
+|4,39,38,0,1679662793,"/etc/nginx/nginx.conf"
+-'  38  0  /etc/nginx/nginx.conf
+|4,39,38,0,1679662793,"/etc/nginx/nginx.conf"
+-'  1  0  /etc/nginx/nginx.conf
+|4,39,1,0,1679662788,"/etc/nginx/nginx.conf"
+-'  39  0  /etc/nginx/nginx.conf
+|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
+-'  39  0  /etc/nginx/nginx.conf
+|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
+-'  39  0  /etc/nginx/nginx.conf
+|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
+-'  39  0  /etc/nginx/nginx.conf
+|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
+-'  39  0  /etc/nginx/nginx.conf
+|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
+-'  39  0  /etc/nginx/nginx.conf
+|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
+-'  38  0  /etc/nginx/nginx.conf
+|4,39,38,0,1679662764,"/etc/nginx/nginx.conf"
+-'  39  0  /etc/nginx/nginx.conf
+|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
+-'  39  0  /etc/nginx/nginx.conf
+|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
+-'  39  0  /etc/nginx/nginx.conf
+|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
+-'  1  0  /etc/nginx/nginx.conf
+|4,39,1,0,1679662756,"/etc/nginx/nginx.conf"
+-'  6  56  /etc/nginx/nginx.conf
+|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
+-'  6  56  /etc/nginx/nginx.conf
+|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
+-'  6  56  /etc/nginx/nginx.conf
+|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
+-'  6  56  /etc/nginx/nginx.conf
+|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
+-'  6  56  /etc/nginx/nginx.conf
+|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
+-'  6  56  /etc/nginx/nginx.conf
+|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
+-'  6  56  /etc/nginx/nginx.conf
+|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
+-'  6  56  /etc/nginx/nginx.conf
+|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
+-'  6  56  /etc/nginx/nginx.conf
+|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
+-'  6  56  /etc/nginx/nginx.conf
+|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
+-'  6  56  /etc/nginx/nginx.conf
+|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
+-'  28  0  /etc/nginx/nginx.conf
+|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
+-'  28  0  /etc/nginx/nginx.conf
+|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
+-'  28  0  /etc/nginx/nginx.conf
+|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
+-'  28  0  /etc/nginx/nginx.conf
+|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
+-'  28  0  /etc/nginx/nginx.conf
+|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
+-'  28  0  /etc/nginx/nginx.conf
+|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
+-'  28  0  /etc/nginx/nginx.conf
+|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
+-'  28  0  /etc/nginx/nginx.conf
+|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
+-'  28  0  /etc/nginx/nginx.conf
+|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
+-'  28  0  /etc/nginx/nginx.conf
+|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
+-'  28  0  /etc/nginx/nginx.conf
+|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
+-'  62  0  /etc/nginx/ssl/server.pem
+|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
+-'  62  0  /etc/nginx/ssl/server.pem
+|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
+-'  62  0  /etc/nginx/ssl/server.pem
+|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
+-'  62  0  /etc/nginx/ssl/server.pem
+|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
+-'  62  0  /etc/nginx/ssl/server.pem
+|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
+-'  62  0  /etc/nginx/ssl/server.pem
+|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
+-'  62  0  /etc/nginx/ssl/server.pem
+|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
+-'  62  0  /etc/nginx/ssl/server.pem
+|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
+-'  62  0  /etc/nginx/ssl/server.pem
+|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
+-'  62  0  /etc/nginx/ssl/server.pem
+|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
+-'  62  0  /etc/nginx/ssl/server.pem
+|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
+-'  62  0  /etc/nginx/ssl/server.pem
+|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
+-'  62  0  /etc/nginx/ssl/server.pem
+|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
+-'  62  0  /etc/nginx/ssl/server.pem
+|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
+-'  62  0  /etc/nginx/ssl/server.pem
+|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
+-'  62  0  /etc/nginx/ssl/server.pem
+|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
 
 # History of marks within files (newest to oldest):
+
+> /etc/nginx/nginx.conf
+	*	1679663619	0
+	"	40	0
+	^	40	1
+	.	40	0
+	+	26	1
+	+	28	0
+	+	6	56
+	+	38	0
+	+	37	0
+	+	34	60
+	+	35	0
+	+	41	1
+	+	3	66
+	+	41	1
+	+	41	0
+	+	40	0
+
+> /etc/nginx/ssl/server.pem
+	*	1679662577	0
+	"	62	0
+	^	62	0
+	.	61	25
+	+	61	25
+
+> /usr/local/frp_0.48.0_linux_amd64/frps.ini
+	*	1679662094	0
+	"	16	27
+	^	5	20
+	.	5	19
+	+	1	8
+	+	18	15
+	+	4	21
+	+	18	15
+	+	4	21
+	+	7	1
+	+	4	21
+	+	9	20
+	+	12	23
+	+	7	15
+	+	8	0
+	+	7	14
+	+	5	21
+	+	4	21
+	+	9	20
+	+	5	19
+
+> /etc/nginx/ssl/server.crt
+	*	1679661606	0
+	"	35	0
+	^	35	0
+	.	34	25
+	+	34	25
+
+> /etc/nginx/ssl/server.key
+	*	1679661595	0
+	"	28	0
+	^	28	0
+	.	27	29
+	+	27	29
 
 > ~/djl/history/2023-03-19/wuhou/historyPrice
 	*	1679233759	0
@@ -260,20 +325,6 @@
 	^	24	19
 	.	24	18
 	+	24	18
-
-> /usr/local/frp_0.48.0_linux_amd64/frps.ini
-	*	1679194822	0
-	"	15	14
-	^	9	21
-	.	9	20
-	+	1	8
-	+	18	15
-	+	4	21
-	+	18	15
-	+	4	21
-	+	6	1
-	+	4	21
-	+	9	20
 
 > /etc/crontab
 	*	1679134628	0
