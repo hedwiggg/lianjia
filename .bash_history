@@ -1,179 +1,3 @@
-cat historyPrice 
-curl https://lianjia.com
-curl "https://lianjia.com"
-ls
-cd ..
-ls
-cd ..
-ls
-ls -l
-ls -lh
-ls
-sz 2023-03-18/
-cd 2023-03-18/
-ls
-cd chenghua/
-ls
-sz historyPrice 
-ls
-rm aaa.zip 
-rm p7zip_16.02
-rm -rf p7zip_16.02
-rm target.zip 
-rm p7zip_16.02_src_all.tar.bz2 
-ls
-ls
-history
-ls
-curl -k --tlsv1 -O "https://github.com/hedwiggg/grayImage/raw/master/remoteLjSpy.jar"
-ls
-java -v
-java -version
-java -jar remoteLjSpy.jar 
-chmod 777 remoteLjSpy.jar 
-ls
-java -jar remoteLjSpy.jar 
-ls -m
-ls -l
-rm remoteLjSpy.jar 
-wget https://github.com/hedwiggg/grayImage/raw/master/remoteLjSpy.jar
-ls
-ls -l
-java -jar remoteLjSpy.jar 
-ls
-cd djl/history/2023-03-18/
-ls
-ls -l
-ls -lh
-time
-date
-ls
-ls
-cd ..
-ls
-cd ..
-ls
-cd ..
-ls
-cd djl
-ls
-cd ..
-git init
-ls
-ls -l
-ls
-git remote add origin https://github.com/hedwiggg/lianjia.git
-git pl
-git pl
-git pull
-git branch
-git commit -m "first commit"
-git add .
-git commit -m "first commit"
-ls
-git branch
-git push -u origin main
-git push -u origin master
-ls
-ssh-keygen -t rsa -C "635454886@qq.com"
-cat /root/.ssh/id_rsa.pub
-ls
-git push -u origin master
-ssh -T git@github.com
-git push -u origin master
-ls
-git pull
-git branch
-git remote add origin git@github.com:hedwiggg/lianjia.git
-git remote set-url origin git@github.com:hedwiggg/lianjia.git
-s
-git push -u origin master
-ls
-pwd
-ls
-touch ccc.txt
-vim ccc.txt 
-git branch
-cat  /etc/crontab
-apt install vim
-ls
-pwd
-ls
-pwd
-ls
-pwd
-top
-ps aux
-python -v
-apt uninstall python
-ps aux
-apt install git
-git clone
-bash <(curl -s -L https://git.io/v2ray.sh)
-v2ray qr
-ps aux
-top
-v2ray info
-v2ray
-v2ray config
-v2ray qr
-vim /etc/crontab
-/etc/init.d/cron restart
-ls
-date
-tail -f /var/log/cron.log
-ls
-git add .
-git commit -m 'test'
-git push
-touch ddd.txt
-(git add .) && (git commit -m 'test') && (git push)
-(git add .) && (git commit -m 'test') && (git push)
-(git add .) || (git commit -m 'test') || (git push)
-git push
-touch eee.txt
-(git add .) && (git commit -m 'test') && (git push)
-vim /etc/crontab
-/etc/init.d/cron restart
-touch fff.txt
-vim /etc/crontab
-/etc/init.d/cron restart
-date
-ls -l
-vim /etc/crontab
-/etc/init.d/cron restart
-date
-vim /etc/crontab
-/etc/init.d/cron restart
-ls
-ls -l
-cd djl
-ls -l
-cd history/
-ls -l
-cd 2023-03-18/
-ls -l
-cd chenghua/
-ls -l
-cd ..
-cd wuhou/
-ls -l
-ls -l
-curl localhost:7500
-curl 127.0.0.1:7500
-curl http://45.147.201.40:7500
-curl http://45.147.201.40:7001
-curl http://45.147.201.40:7500
-cd /usr/local
-ls
-wget https://go.dev/dl/go1.20.2.linux-amd64.tar.gz
-ls -l
-ls -lh
-rm -rf /usr/local/go && tar -C /usr/local -xzf go1.20.2.linux-amd64.tar.gz
-ls -lh
-export PATH=$PATH:/usr/local/go/bin
-source ~/.profile 
-go version
 rm go1.20.2.linux-amd64.tar.gz
 ls -lh
 cd go/
@@ -497,4 +321,180 @@ history
 ./frps -c ./frps.ini
 vim frps.ini
 nohup ./frps -c ./frps.ini &
+htop
+ls
+cd ..
+ls
+cd usr/local/
+ls
+cd frp_0.48.0_linux_amd64/
+ls
+vim frps.ini 
+ps -ef|grep frp
+kill -9 1784
+ps -ef|grep frp
+nohup ./frps -c ./frps.ini &
+ps -ef|grep frp
+iptables -I INPUT -p tcp --dport 443 -j ACCEPT
+netfilter-persistent save
+netfilter-persistent reload
+htop
+ls
+cd ..
+ls
+mkdir nginx
+ls
+cd nginx/
+ls
+apt install nginx
+ls
+ls
+nginx -v
+ls
+cd /etc/nginx/conf.d/
+ls
+cd ..
+ls
+cat nginx.conf 
+mkdir ssl
+cd ssl/
+ls
+wget https://cas-documents-service.oss-cn-shanghai.aliyuncs.com/370bbb28e18bfc518a3e075b5aaaab2f?Expires=1679661441&OSSAccessKeyId=LTAIgoNmxRtIx2Ue&Signature=QvGjGRX61i45%2B6AoPKGYmHyAhWc%3D
+ls
+rm wget-log 
+curl -O https://cas-documents-service.oss-cn-shanghai.aliyuncs.com/370bbb28e18bfc518a3e075b5aaaab2f?Expires=1679661441&OSSAccessKeyId=LTAIgoNmxRtIx2Ue&Signature=QvGjGRX61i45%2B6AoPKGYmHyAhWc%3D
+ls
+rm 370bbb28e18bfc518a3e075b5aaaab2f\?Expires\=1679661441 
+ls
+vim server.key
+vim server.crt
+ls
+chmod 777 server.key 
+chmod 777 server.crt 
+ls
+cd ..
+ls
+vim nginx.conf
+mv nginx.conf nginx.conf1
+ls
+vim nginx.conf
+pwd
+ps -ef|grep frp
+kill -9 4937
+cd /usr/local/frp_0.48.0_linux_amd64/
+vim frps.ini 
+vim frps.ini 
+nohup ./frps -c ./frps.ini &
+cd -
+ls
+vim nginx.conf
+cat nginx.conf1
+nginx start
+ls
+nginx
+ls
+rm nginx.conf
+vim nginx.conf
+nginx
+cd ssl/
+ls
+pwd
+cat /etc/nginx/ssl/server.cer
+ls
+vim server.pem
+ls
+cd ..
+ls
+vim nginx.conf
+nginx
+rm nginx.conf
+vim nginx.conf
+nginx
+rm nginx.conf
+vim nginx.conf
+nginx
+rm nginx.conf
+vim nginx.conf
+nginx
+vim nginx.conf
+nginx
+ps -ef|grep nginx
+nginx stop
+rm nginx.conf
+vim nginx.conf
+vim nginx.conf
+nginx -s reload
+vim nginx.conf
+nginx -s reload
+vim nginx.conf
+nginx -s reload
+rm nginx.conf
+vim nginx.conf
+nginx -s reload
+rm nginx.conf
+vim nginx.conf
+nginx -s reload
+cat nginx.conf
+v2ray
+v2ray url
+ls
+cd ..
+ls
+cd usr/local/frp_0.48.0_linux_amd64/
+ls
+cat frps.ini 
+vim frps.ini 
+ps -ef|Grep frp
+ps -ef|grep frp
+kill -9 5829
+ps -ef|grep frp
+nohup ./frps -c ./frps.ini &
+cat frps.ini 
+ls
+ps -ef|grep frp
+ls
+cd ..
+ls
+cd nginx/
+vim nginx.conf
+ls
+ls
+cd /usr/local/nginx/
+ls
+pwd
+history
+cd/etc/nginx/
+cd /etc/nginx/
+ls
+vim nginx.conf
+cat nginx.conf
+nginx -s reload
+cd -
+cd ..
+ls
+cd frp_0.48.0_linux_amd64/
+ls
+vim frps.ini 
+ps -ef|grep frp
+kill -9 9907
+nohup ./frps -c ./frps.ini &
+cd -
+ls
+cd nginx/
+cd ssl
+ls
+cd /etc/nginx/
+ls
+cd ssl
+ls
+vim server1.pem
+vim server1.key
+chmod 777 server1.pem 
+chmod 777 server1.key 
+cd ..
+ls
+rm nginx.conf
+vim nginx.conf
+nginx -s reload
+ls
 htop

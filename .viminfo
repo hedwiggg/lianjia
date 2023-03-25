@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :q
-|2,0,1679662098,,"q"
+|2,0,1679728128,,"q"
 
 # Search String History (newest to oldest):
 
@@ -29,236 +29,236 @@
 |3,1,1,0,2,0,1679658586,"8",""
 
 # File marks:
-'0  40  0  /etc/nginx/nginx.conf
-|4,48,40,0,1679663620,"/etc/nginx/nginx.conf"
-'1  41  0  /etc/nginx/nginx.conf
-|4,49,41,0,1679663590,"/etc/nginx/nginx.conf"
-'2  41  0  /etc/nginx/nginx.conf
-|4,50,41,0,1679663590,"/etc/nginx/nginx.conf"
-'3  41  0  /etc/nginx/nginx.conf
-|4,51,41,0,1679663235,"/etc/nginx/nginx.conf"
-'4  41  0  /etc/nginx/nginx.conf
-|4,52,41,0,1679663235,"/etc/nginx/nginx.conf"
-'5  41  1  /etc/nginx/nginx.conf
-|4,53,41,1,1679663201,"/etc/nginx/nginx.conf"
-'6  41  1  /etc/nginx/nginx.conf
-|4,54,41,1,1679663201,"/etc/nginx/nginx.conf"
-'7  41  1  /etc/nginx/nginx.conf
-|4,55,41,1,1679663201,"/etc/nginx/nginx.conf"
-'8  41  1  /etc/nginx/nginx.conf
-|4,56,41,1,1679663201,"/etc/nginx/nginx.conf"
-'9  3  65  /etc/nginx/nginx.conf
-|4,57,3,65,1679663171,"/etc/nginx/nginx.conf"
+'0  72  0  /etc/nginx/nginx.conf
+|4,48,72,0,1679729875,"/etc/nginx/nginx.conf"
+'1  28  0  /etc/nginx/ssl/server1.key
+|4,49,28,0,1679729839,"/etc/nginx/ssl/server1.key"
+'2  62  0  /etc/nginx/ssl/server1.pem
+|4,50,62,0,1679729829,"/etc/nginx/ssl/server1.pem"
+'3  5  22  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,51,5,22,1679729254,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+'4  28  21  /etc/nginx/nginx.conf
+|4,52,28,21,1679728213,"/etc/nginx/nginx.conf"
+'5  28  21  /etc/nginx/nginx.conf
+|4,53,28,21,1679728213,"/etc/nginx/nginx.conf"
+'6  1  0  /usr/local/nginx/nginx.conf
+|4,54,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+'7  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,55,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+'8  40  0  /etc/nginx/nginx.conf
+|4,56,40,0,1679663620,"/etc/nginx/nginx.conf"
+'9  40  0  /etc/nginx/nginx.conf
+|4,57,40,0,1679663620,"/etc/nginx/nginx.conf"
 
 # Jumplist (newest first):
+-'  72  0  /etc/nginx/nginx.conf
+|4,39,72,0,1679729875,"/etc/nginx/nginx.conf"
+-'  1  0  /etc/nginx/nginx.conf
+|4,39,1,0,1679729863,"/etc/nginx/nginx.conf"
+-'  28  0  /etc/nginx/ssl/server1.key
+|4,39,28,0,1679729839,"/etc/nginx/ssl/server1.key"
+-'  28  0  /etc/nginx/ssl/server1.key
+|4,39,28,0,1679729839,"/etc/nginx/ssl/server1.key"
+-'  1  0  /etc/nginx/ssl/server1.key
+|4,39,1,0,1679729833,"/etc/nginx/ssl/server1.key"
+-'  1  0  /etc/nginx/ssl/server1.key
+|4,39,1,0,1679729833,"/etc/nginx/ssl/server1.key"
+-'  62  0  /etc/nginx/ssl/server1.pem
+|4,39,62,0,1679729829,"/etc/nginx/ssl/server1.pem"
+-'  62  0  /etc/nginx/ssl/server1.pem
+|4,39,62,0,1679729829,"/etc/nginx/ssl/server1.pem"
+-'  62  0  /etc/nginx/ssl/server1.pem
+|4,39,62,0,1679729829,"/etc/nginx/ssl/server1.pem"
+-'  62  0  /etc/nginx/ssl/server1.pem
+|4,39,62,0,1679729829,"/etc/nginx/ssl/server1.pem"
+-'  1  0  /etc/nginx/ssl/server1.pem
+|4,39,1,0,1679729810,"/etc/nginx/ssl/server1.pem"
+-'  1  0  /etc/nginx/ssl/server1.pem
+|4,39,1,0,1679729810,"/etc/nginx/ssl/server1.pem"
+-'  1  0  /etc/nginx/ssl/server1.pem
+|4,39,1,0,1679729810,"/etc/nginx/ssl/server1.pem"
+-'  1  0  /etc/nginx/ssl/server1.pem
+|4,39,1,0,1679729810,"/etc/nginx/ssl/server1.pem"
+-'  5  22  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,22,1679729254,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  22  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,22,1679729254,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  22  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,22,1679729254,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  22  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,22,1679729254,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  22  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,22,1679729254,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  22  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,22,1679729254,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  22  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,22,1679729254,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  5  22  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,5,22,1679729254,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  28  21  /etc/nginx/nginx.conf
+|4,39,28,21,1679728213,"/etc/nginx/nginx.conf"
+-'  28  21  /etc/nginx/nginx.conf
+|4,39,28,21,1679728213,"/etc/nginx/nginx.conf"
+-'  28  21  /etc/nginx/nginx.conf
+|4,39,28,21,1679728213,"/etc/nginx/nginx.conf"
+-'  28  21  /etc/nginx/nginx.conf
+|4,39,28,21,1679728213,"/etc/nginx/nginx.conf"
+-'  28  21  /etc/nginx/nginx.conf
+|4,39,28,21,1679728213,"/etc/nginx/nginx.conf"
+-'  28  21  /etc/nginx/nginx.conf
+|4,39,28,21,1679728213,"/etc/nginx/nginx.conf"
+-'  28  21  /etc/nginx/nginx.conf
+|4,39,28,21,1679728213,"/etc/nginx/nginx.conf"
+-'  28  21  /etc/nginx/nginx.conf
+|4,39,28,21,1679728213,"/etc/nginx/nginx.conf"
+-'  28  21  /etc/nginx/nginx.conf
+|4,39,28,21,1679728213,"/etc/nginx/nginx.conf"
 -'  40  0  /etc/nginx/nginx.conf
-|4,39,40,0,1679663620,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1679663616,"/etc/nginx/nginx.conf"
--'  41  0  /etc/nginx/nginx.conf
-|4,39,41,0,1679663590,"/etc/nginx/nginx.conf"
--'  41  0  /etc/nginx/nginx.conf
-|4,39,41,0,1679663590,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1679663583,"/etc/nginx/nginx.conf"
--'  41  0  /etc/nginx/nginx.conf
-|4,39,41,0,1679663235,"/etc/nginx/nginx.conf"
--'  41  1  /etc/nginx/nginx.conf
-|4,39,41,1,1679663201,"/etc/nginx/nginx.conf"
--'  3  65  /etc/nginx/nginx.conf
-|4,39,3,65,1679663188,"/etc/nginx/nginx.conf"
--'  3  65  /etc/nginx/nginx.conf
-|4,39,3,65,1679663188,"/etc/nginx/nginx.conf"
--'  3  65  /etc/nginx/nginx.conf
-|4,39,3,65,1679663188,"/etc/nginx/nginx.conf"
--'  3  65  /etc/nginx/nginx.conf
-|4,39,3,65,1679663188,"/etc/nginx/nginx.conf"
--'  3  65  /etc/nginx/nginx.conf
-|4,39,3,65,1679663171,"/etc/nginx/nginx.conf"
--'  41  0  /etc/nginx/nginx.conf
-|4,39,41,0,1679663153,"/etc/nginx/nginx.conf"
--'  41  0  /etc/nginx/nginx.conf
-|4,39,41,0,1679663144,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1679663130,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1679663130,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1679663130,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1679663130,"/etc/nginx/nginx.conf"
--'  35  0  /etc/nginx/nginx.conf
-|4,39,35,0,1679662889,"/etc/nginx/nginx.conf"
--'  35  0  /etc/nginx/nginx.conf
-|4,39,35,0,1679662889,"/etc/nginx/nginx.conf"
--'  35  0  /etc/nginx/nginx.conf
-|4,39,35,0,1679662889,"/etc/nginx/nginx.conf"
--'  35  0  /etc/nginx/nginx.conf
-|4,39,35,0,1679662889,"/etc/nginx/nginx.conf"
--'  35  0  /etc/nginx/nginx.conf
-|4,39,35,0,1679662889,"/etc/nginx/nginx.conf"
--'  35  0  /etc/nginx/nginx.conf
-|4,39,35,0,1679662889,"/etc/nginx/nginx.conf"
--'  35  0  /etc/nginx/nginx.conf
-|4,39,35,0,1679662889,"/etc/nginx/nginx.conf"
--'  34  60  /etc/nginx/nginx.conf
-|4,39,34,60,1679662880,"/etc/nginx/nginx.conf"
--'  34  60  /etc/nginx/nginx.conf
-|4,39,34,60,1679662880,"/etc/nginx/nginx.conf"
--'  34  60  /etc/nginx/nginx.conf
-|4,39,34,60,1679662880,"/etc/nginx/nginx.conf"
--'  34  60  /etc/nginx/nginx.conf
-|4,39,34,60,1679662880,"/etc/nginx/nginx.conf"
--'  34  60  /etc/nginx/nginx.conf
-|4,39,34,60,1679662880,"/etc/nginx/nginx.conf"
--'  34  60  /etc/nginx/nginx.conf
-|4,39,34,60,1679662880,"/etc/nginx/nginx.conf"
--'  34  60  /etc/nginx/nginx.conf
-|4,39,34,60,1679662880,"/etc/nginx/nginx.conf"
--'  35  0  /etc/nginx/nginx.conf
-|4,39,35,0,1679662821,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1679662817,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1679662817,"/etc/nginx/nginx.conf"
--'  37  0  /etc/nginx/nginx.conf
-|4,39,37,0,1679662793,"/etc/nginx/nginx.conf"
--'  38  0  /etc/nginx/nginx.conf
-|4,39,38,0,1679662793,"/etc/nginx/nginx.conf"
--'  37  0  /etc/nginx/nginx.conf
-|4,39,37,0,1679662793,"/etc/nginx/nginx.conf"
--'  38  0  /etc/nginx/nginx.conf
-|4,39,38,0,1679662793,"/etc/nginx/nginx.conf"
--'  37  0  /etc/nginx/nginx.conf
-|4,39,37,0,1679662793,"/etc/nginx/nginx.conf"
--'  38  0  /etc/nginx/nginx.conf
-|4,39,38,0,1679662793,"/etc/nginx/nginx.conf"
--'  37  0  /etc/nginx/nginx.conf
-|4,39,37,0,1679662793,"/etc/nginx/nginx.conf"
--'  38  0  /etc/nginx/nginx.conf
-|4,39,38,0,1679662793,"/etc/nginx/nginx.conf"
--'  37  0  /etc/nginx/nginx.conf
-|4,39,37,0,1679662793,"/etc/nginx/nginx.conf"
--'  38  0  /etc/nginx/nginx.conf
-|4,39,38,0,1679662793,"/etc/nginx/nginx.conf"
--'  37  0  /etc/nginx/nginx.conf
-|4,39,37,0,1679662793,"/etc/nginx/nginx.conf"
--'  38  0  /etc/nginx/nginx.conf
-|4,39,38,0,1679662793,"/etc/nginx/nginx.conf"
--'  37  0  /etc/nginx/nginx.conf
-|4,39,37,0,1679662793,"/etc/nginx/nginx.conf"
--'  38  0  /etc/nginx/nginx.conf
-|4,39,38,0,1679662793,"/etc/nginx/nginx.conf"
--'  38  0  /etc/nginx/nginx.conf
-|4,39,38,0,1679662793,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1679662788,"/etc/nginx/nginx.conf"
--'  39  0  /etc/nginx/nginx.conf
-|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
--'  39  0  /etc/nginx/nginx.conf
-|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
--'  39  0  /etc/nginx/nginx.conf
-|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
--'  39  0  /etc/nginx/nginx.conf
-|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
--'  39  0  /etc/nginx/nginx.conf
-|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
--'  39  0  /etc/nginx/nginx.conf
-|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
--'  38  0  /etc/nginx/nginx.conf
-|4,39,38,0,1679662764,"/etc/nginx/nginx.conf"
--'  39  0  /etc/nginx/nginx.conf
-|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
--'  39  0  /etc/nginx/nginx.conf
-|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
--'  39  0  /etc/nginx/nginx.conf
-|4,39,39,0,1679662764,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1679662756,"/etc/nginx/nginx.conf"
--'  6  56  /etc/nginx/nginx.conf
-|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
--'  6  56  /etc/nginx/nginx.conf
-|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
--'  6  56  /etc/nginx/nginx.conf
-|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
--'  6  56  /etc/nginx/nginx.conf
-|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
--'  6  56  /etc/nginx/nginx.conf
-|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
--'  6  56  /etc/nginx/nginx.conf
-|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
--'  6  56  /etc/nginx/nginx.conf
-|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
--'  6  56  /etc/nginx/nginx.conf
-|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
--'  6  56  /etc/nginx/nginx.conf
-|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
--'  6  56  /etc/nginx/nginx.conf
-|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
--'  6  56  /etc/nginx/nginx.conf
-|4,39,6,56,1679662595,"/etc/nginx/nginx.conf"
--'  28  0  /etc/nginx/nginx.conf
-|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
--'  28  0  /etc/nginx/nginx.conf
-|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
--'  28  0  /etc/nginx/nginx.conf
-|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
--'  28  0  /etc/nginx/nginx.conf
-|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
--'  28  0  /etc/nginx/nginx.conf
-|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
--'  28  0  /etc/nginx/nginx.conf
-|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
--'  28  0  /etc/nginx/nginx.conf
-|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
--'  28  0  /etc/nginx/nginx.conf
-|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
--'  28  0  /etc/nginx/nginx.conf
-|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
--'  28  0  /etc/nginx/nginx.conf
-|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
--'  28  0  /etc/nginx/nginx.conf
-|4,39,28,0,1679662585,"/etc/nginx/nginx.conf"
--'  62  0  /etc/nginx/ssl/server.pem
-|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
--'  62  0  /etc/nginx/ssl/server.pem
-|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
--'  62  0  /etc/nginx/ssl/server.pem
-|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
--'  62  0  /etc/nginx/ssl/server.pem
-|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
--'  62  0  /etc/nginx/ssl/server.pem
-|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
--'  62  0  /etc/nginx/ssl/server.pem
-|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
--'  62  0  /etc/nginx/ssl/server.pem
-|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
--'  62  0  /etc/nginx/ssl/server.pem
-|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
--'  62  0  /etc/nginx/ssl/server.pem
-|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
--'  62  0  /etc/nginx/ssl/server.pem
-|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
--'  62  0  /etc/nginx/ssl/server.pem
-|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
--'  62  0  /etc/nginx/ssl/server.pem
-|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
--'  62  0  /etc/nginx/ssl/server.pem
-|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
--'  62  0  /etc/nginx/ssl/server.pem
-|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
--'  62  0  /etc/nginx/ssl/server.pem
-|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
--'  62  0  /etc/nginx/ssl/server.pem
-|4,39,62,0,1679662578,"/etc/nginx/ssl/server.pem"
+|4,39,40,0,1679728185,"/etc/nginx/nginx.conf"
+-'  40  0  /etc/nginx/nginx.conf
+|4,39,40,0,1679728185,"/etc/nginx/nginx.conf"
+-'  40  0  /etc/nginx/nginx.conf
+|4,39,40,0,1679728185,"/etc/nginx/nginx.conf"
+-'  40  0  /etc/nginx/nginx.conf
+|4,39,40,0,1679728185,"/etc/nginx/nginx.conf"
+-'  40  0  /etc/nginx/nginx.conf
+|4,39,40,0,1679728185,"/etc/nginx/nginx.conf"
+-'  40  0  /etc/nginx/nginx.conf
+|4,39,40,0,1679728185,"/etc/nginx/nginx.conf"
+-'  40  0  /etc/nginx/nginx.conf
+|4,39,40,0,1679728185,"/etc/nginx/nginx.conf"
+-'  40  0  /etc/nginx/nginx.conf
+|4,39,40,0,1679728185,"/etc/nginx/nginx.conf"
+-'  40  0  /etc/nginx/nginx.conf
+|4,39,40,0,1679728185,"/etc/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  1  0  /usr/local/nginx/nginx.conf
+|4,39,1,0,1679728128,"/usr/local/nginx/nginx.conf"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
+-'  6  27  /usr/local/frp_0.48.0_linux_amd64/frps.ini
+|4,39,6,27,1679727486,"/usr/local/frp_0.48.0_linux_amd64/frps.ini"
 
 # History of marks within files (newest to oldest):
 
 > /etc/nginx/nginx.conf
-	*	1679663619	0
-	"	40	0
-	^	40	1
-	.	40	0
+	*	1679729874	0
+	"	72	0
+	^	72	1
+	.	72	0
 	+	26	1
 	+	28	0
 	+	6	56
@@ -271,19 +271,29 @@
 	+	41	1
 	+	41	0
 	+	40	0
+	+	6	24
+	+	28	20
+	+	72	0
 
-> /etc/nginx/ssl/server.pem
-	*	1679662577	0
+> /etc/nginx/ssl/server1.key
+	*	1679729838	0
+	"	28	0
+	^	28	0
+	.	27	29
+	+	27	29
+
+> /etc/nginx/ssl/server1.pem
+	*	1679729828	0
 	"	62	0
 	^	62	0
 	.	61	25
 	+	61	25
 
 > /usr/local/frp_0.48.0_linux_amd64/frps.ini
-	*	1679662094	0
-	"	16	27
-	^	5	20
-	.	5	19
+	*	1679729253	0
+	"	5	22
+	^	5	23
+	.	6	0
 	+	1	8
 	+	18	15
 	+	4	21
@@ -299,7 +309,19 @@
 	+	5	21
 	+	4	21
 	+	9	20
-	+	5	19
+	+	5	23
+	+	6	0
+
+> /usr/local/nginx/nginx.conf
+	*	1679728127	0
+	"	1	0
+
+> /etc/nginx/ssl/server.pem
+	*	1679662577	0
+	"	62	0
+	^	62	0
+	.	61	25
+	+	61	25
 
 > /etc/nginx/ssl/server.crt
 	*	1679661606	0
