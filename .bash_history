@@ -1,5 +1,3 @@
-rm go1.20.2.linux-amd64.tar.gz
-ls -lh
 cd go/
 ls
 cd ..
@@ -498,3 +496,5 @@ vim nginx.conf
 nginx -s reload
 ls
 htop
+curl 'https://chat.2guliang.top/chat-process'   -H 'authority: chat.2guliang.top'   -H 'accept: application/json, text/plain, */*'   -H 'accept-language: zh-CN,zh;q=0.9,en;q=0.8'   -H 'content-type: application/json'   -H 'cookie: _ga=GA1.1.1364455392.1679799456; _ga_B68KS8J8QE=GS1.1.1679845937.3.0.1679845937.0.0.0'   -H 'origin: https://chat.2guliang.top'   -H 'referer: https://chat.2guliang.top/'   -H 'sec-ch-ua: "Google Chrome";v="111", "Not(A:Brand";v="8", "Chromium";v="111"'   -H 'sec-ch-ua-mobile: ?0'   -H 'sec-ch-ua-platform: "macOS"'   -H 'sec-fetch-dest: empty'   -H 'sec-fetch-mode: cors'   -H 'sec-fetch-site: same-origin'   -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'   --data-raw '{"prompt":"我上一句说了什么","secretkeystr":"","options":{"parentMessageId":"chatcmpl-6yN1vqst5N3WWJElwX8pwuMCxz6yE"}}'   --compressed
+curl 'https://chat.2guliang.top/chat-process'   -H 'authority: chat.2guliang.top'   -H 'accept: application/json, text/plain, */*'   -H 'accept-language: zh-CN,zh;q=0.9,en;q=0.8'   -H 'content-type: application/json'   -H 'cookie: _ga=GA1.1.1364455392.1679799456; _ga_B68KS8J8QE=GS1.1.1679845937.3.0.1679845937.0.0.0'   -H 'origin: https://chat.2guliang.top'   -H 'referer: https://chat.2guliang.top/'   -H 'sec-ch-ua: "Google Chrome";v="111", "Not(A:Brand";v="8", "Chromium";v="111"'   -H 'sec-ch-ua-mobile: ?0'   -H 'sec-ch-ua-platform: "macOS"'   -H 'sec-fetch-dest: empty'   -H 'sec-fetch-mode: cors'   -H 'sec-fetch-site: same-origin'   -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'   --data-raw '{"prompt":"我上一句说了什么","secretkeystr":"","options":{"parentMessageId":""}}'   --compressed
