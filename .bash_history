@@ -1,4 +1,3 @@
-ls
 tar -xf frp_0.48.0_linux_amd64.tar.gz 
 ls
 ls -lh
@@ -498,3 +497,4 @@ cd /etc/nginx/
 ls
 vim nginx.conf
 nginx -s reload
+v2ray url
