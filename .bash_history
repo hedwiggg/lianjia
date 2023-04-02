@@ -1,9 +1,3 @@
-tar -xf frp_0.48.0_linux_amd64.tar.gz 
-ls
-ls -lh
-cd frp_0.48.0_linux_amd64/
-ls
-./frps -c ./frps.ini 
 ls
 cat frps.ini 
 sudo ufw allow 7000
@@ -498,3 +492,9 @@ ls
 vim nginx.conf
 nginx -s reload
 v2ray url
+htop
+df -h
+wget -qO- get.docker.com | bash
+cat ~/.config/rclone
+history
+cat /root/.config/rclone/rclone.conf
