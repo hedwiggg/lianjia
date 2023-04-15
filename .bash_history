@@ -1,12 +1,3 @@
-cat frps.ini 
-sudo ufw allow 7000
-history
-iptables -I INPUT -p tcp --dport 8080 -j ACCEPT
-netfilter-persistent save
-apt-get install iptables-persistent
-netfilter-persistent save
-netfilter-persistent reload
-ls
 vim frps.ini 
 vim frps.ini 
 iptables -I INPUT -p tcp --dport 7000 -j ACCEPT
@@ -498,3 +489,12 @@ cat ~/.config/rclone
 history
 cat /root/.config/rclone/rclone.conf
 curl 'https://chatbot.theb.ai/api/chat-process'   -H 'authority: chatbot.theb.ai'   -H 'accept: application/json, text/plain, */*'   -H 'accept-language: zh-CN,zh;q=0.9,en;q=0.8'   -H 'content-type: application/json'   -H 'cookie: _ga=GA1.1.363357402.1679800476; __gads=ID=080116a85572d623-2219cf18badc0007:T=1679800476:RT=1679800476:S=ALNI_MYlLGOvm2L3npqPLpoENHd5WwyD6Q; _ga_0MN0L0RJXZ=GS1.1.1681137009.12.0.1681137009.0.0.0; __gpi=UID=00000be0a49d9882:T=1679800476:RT=1681137010:S=ALNI_MbB4cXQfQgBGyOQm543WaA-OHL9jQ; __cf_bm=BGVjGZuFnLaowJpjybB10wPJXuguHFvMpnEDiaoWf4U-1681137033-0-AXNGfZ6W2vfrmfSbEvIjj9reXonAQIVeFXl//9KNKeHzP0xfX8/RrPYqthsHFtQXl10Va7epvXK9eHcIGG2ttLo7lc26re0h3av2X82k6h2Yo6o9ry+1hwVgLiomDyNx6A=='   -H 'origin: https://chatbot.theb.ai'   -H 'referer: https://chatbot.theb.ai/'   -H 'sec-ch-ua: "Google Chrome";v="111", "Not(A:Brand";v="8", "Chromium";v="111"'   -H 'sec-ch-ua-mobile: ?0'   -H 'sec-ch-ua-platform: "macOS"'   -H 'sec-fetch-dest: empty'   -H 'sec-fetch-mode: cors'   -H 'sec-fetch-site: same-origin'   -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'   --data-raw '{"prompt":"test","options":{}}'   --compressed
+swapon --show
+swapon --show
+swapon --show
+swapon --show
+df -h
+ls
+cd ..
+free
+swapoff /var/swapfile
