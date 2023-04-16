@@ -1,5 +1,3 @@
-vim frps.ini 
-vim frps.ini 
 iptables -I INPUT -p tcp --dport 7000 -j ACCEPT
 iptables -I INPUT -p tcp --dport 7500 -j ACCEPT
 netfilter-persistent save
@@ -498,3 +496,5 @@ ls
 cd ..
 free
 swapoff /var/swapfile
+ls
+cat /etc/crontab 
